@@ -10,7 +10,7 @@ These repositories are a collection of my data projects showcasing my skills in 
 
 #### [RomanCoins](https://github.com/vbalalian/RomanCoins)
 
-A simple data engineering project, currently limited to a working web scraper that collects information about ancient Roman coins, such as mass and diameter. Though the data may not be ideal for deep analysis, [web scraper notebook](RomanCoins/web_scraping/web_scraper.ipynb) highlights web scraping techniques and data visualization to identify potential patterns and trends in the coin data.
+A simple data engineering project, currently limited to a working web scraper that collects information about ancient Roman coins, such as mass and diameter. Though the data may not be ideal for deep analysis, the [web scraper notebook](RomanCoins/web_scraping/web_scraper.ipynb) highlights web scraping techniques and data visualization to identify potential patterns and trends in the coin data.
 
 #### [Cyclistic_case_study](https://github.com/vbalalian/Cyclistic_case_study)
 
