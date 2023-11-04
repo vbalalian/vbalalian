@@ -1,24 +1,20 @@
 # Portfolio: Vincent Balalian
 
-Welcome to my Github! I'm Vincent, an aspiring Analytics Engineer based in the Los Angeles area. I'm passionate about learning and building, which makes the world of data and programming my ideal playground. I love the feeling of solving technical problems and discovering insights from working with data. My goal is to effectively utilize the tools in the modern data stack to apply data theory concepts and best practices through the various stages of ELT/ETL.
+Welcome to my Github! I'm Vincent, a junior data engineer based in Los Angeles. I'm passionate about learning and professional growth. My goal is to effectively utilize the tools in the modern data stack to apply data theory concepts and best practices through the various stages of ELT/ETL.
 
 ## Overview
 
-These repositories are a collection of my data projects showcasing my skills in data cleaning, processing, visualization, orchestration, and more, using various tools and technologies such as Python, R, SQL, etc.
+These repositories are a collection of my data projects showcasing my skills in data cleaning, processing, visualization, orchestration, and more, using various tools and technologies such as Python, R, SQL, and more.
 
 ### Projects
 
-#### big_steves_data_pipeline
+#### RomanCoins
 
-A data engineering project in progress that aims to develop and implement a data pipeline for a fictional gym chain, Big Steve's Gym. Having completed various synthetic data generation and upload scripts (including initial and ongoing data for memberships, check ins, fitness classes, product sales, and more), the project's current focus is on transforming and modeling the data based on Kimball's dimensional modeling concepts. Once completed, the data pipeline will integrate data generation, transformation, and storage, enabling insightful tracking of key business metrics, customer behavior, and trends to drive informed decision-making for the (imaginary) management team.
+A simple data engineering project, currently limited to a working web scraper that collects information about ancient Roman coins, such as mass and diameter. Though the data may not be ideal for deep analysis, [web scraper notebook](web_scraping/web_scraper.ipynb) highlights web scraping techniques and data visualization to identify potential patterns and trends in the coin data.
 
 #### Cyclistic_case_study
 
 An R-based case study analyzing ride-sharing data using R's impressive suite of data processing and visualization tools to uncover insights and trends in bike-sharing service usage, in order to help the marketing team develop a new strategy to target casual riders for conversion to annual members. 
-
-#### Roman_coins_webscraper
-
-A data engineering project centered on developing a web scraper to collect information about ancient Roman coins, such as mass and diameter. Though the data may not be ideal for deep analysis, the project highlights web scraping techniques and data visualization to identify potential patterns and trends in the coin data.
 
 #### Cointoss
 
