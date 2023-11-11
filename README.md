@@ -4,13 +4,13 @@ Welcome to my Github! I'm Vincent, a junior data engineer based in Los Angeles. 
 
 ## Overview
 
-These repositories are a collection of my data projects showcasing my skills in data cleaning, processing, visualization, orchestration, and more, using various tools and technologies such as Python, R, SQL, and more.
+These repositories are a collection of my data projects showcasing my skills in data cleaning, processing, visualization, orchestration, and more, using various tools and technologies such as Python, SQL, and more.
 
 ### Projects
 
 #### [RomanCoins](https://github.com/vbalalian/RomanCoins)
 
-A simple data engineering project, currently limited to a working web scraper that collects information about ancient Roman coins, such as mass and diameter. Though the data may not be ideal for deep analysis, the [web scraper notebook](RomanCoins/web_scraping/web_scraper.ipynb) highlights web scraping techniques and data visualization to identify potential patterns and trends in the coin data.
+End-to-end data pipeline project with a simple, learning-based scope, focused on the Extraction, Loading, and Transformation of data on coins minted by the ancient Roman Empire. The project currently consists of a [web scraper](RomanCoins/web_scraping/web_scraper.py) that scrapes and parses data from wildwinds.com, and a simple [API](RomanCoins/roman_coin_api/main.py) that uses [SQLite](RomanCoins/roman_coin_api/sqlite3/create_load_db.py).
 
 #### [Cyclistic_case_study](https://github.com/vbalalian/Cyclistic_case_study)
 
@@ -19,25 +19,6 @@ An R-based case study analyzing ride-sharing data using R's impressive suite of 
 #### [Cointoss](https://github.com/vbalalian/cointoss)
 
 A simple cointoss game using the tkinter python module for a graphical UI, demonstrating simple object-oriented programming concepts.
-
-## Skills and Technologies
-
-* Python
-* R
-* SQL
-* Jupyter Notebook
-* Matplotlib
-* RMarkdown
-* ggplot2
-* pandas
-* Data Cleaning
-* Data Processing
-* Data Analysis
-* Data Visualization
-* Web Scraping
-* dbt (data build tool)
-* BigQuery
-* Data Modeling
 
 ## Connect with Me
 
