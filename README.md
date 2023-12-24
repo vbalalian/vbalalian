@@ -8,9 +8,9 @@ These repositories are a collection of my data projects showcasing my skills in 
 
 ### Projects
 
-#### [RomanCoins](https://github.com/vbalalian/RomanCoins)
+#### [roman_coins_data_pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)
 
-End-to-end data pipeline project with a simple, learning-based scope, focused on the Extraction, Loading, and Transformation of data on coins minted by the ancient Roman Empire. The project currently consists of a [web scraper](https://github.com/vbalalian/RomanCoins/blob/master/web_scraping/web_scraper.py) that scrapes and parses data from wildwinds.com, then loads the data into a PostGreSQL server; and an [API](https://github.com/vbalalian/RomanCoins/blob/master/api/main.py) that serves the dataset.
+End-to-end data pipeline project with a simple, learning-based scope, focused on the Extraction, Loading, and Transformation of data on coins minted by the ancient Roman Empire. The project currently consists of a [web scraper](https://github.com/vbalalian/roman_coins_data_pipeline/blob/master/web_scraping/web_scraper.py) that scrapes and parses data from wildwinds.com, then loads the data into a PostGreSQL server; and an [API](https://github.com/vbalalian/roman_coins_data_pipeline/blob/master/api/main.py) that serves the dataset.
 
 #### [Cyclistic_case_study](https://github.com/vbalalian/Cyclistic_case_study)
 
