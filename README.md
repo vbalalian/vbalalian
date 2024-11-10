@@ -6,7 +6,7 @@ These repositories are a collection of my data projects showcasing my skills in 
 
 #### [roman_coins_data_pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)
 
-ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire.
+ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire. Proof of concept for most data engineering fundamentals.
 
 #### [Cyclistic_case_study](https://github.com/vbalalian/Cyclistic_case_study)
 
