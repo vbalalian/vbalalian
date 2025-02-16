@@ -4,6 +4,10 @@ These repositories are a collection of my data projects showcasing my skills in 
 
 ### Projects
 
+#### [littlefield_analytics](https://github.com/vbalalian/littlefield)
+
+Combined web-scraping, loading, and reporting tool for Littlefield simulation, built for use with Google Cloud Run functions and Google Cloud Scheduler.
+
 #### [roman_coins_data_pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)
 
 ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire. Used to learn fundamentals of data engineering.
