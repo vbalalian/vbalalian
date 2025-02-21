@@ -4,7 +4,7 @@ These repositories are a collection of my data projects showcasing my skills in 
 
 ### Projects
 
-#### [Littlefield](https://responsive.net/littlefield.html) Simulation [analytics pipeline](https://github.com/vbalalian/littlefield)
+#### [Littlefield](https://responsive.net/littlefield.html) Simulation analytics [pipeline](https://github.com/vbalalian/littlefield)
 
 Combined web-scraping, loading, and reporting tool for Littlefield simulation, built for use with Google Cloud Run functions and Google Cloud Scheduler.
 
@@ -12,7 +12,7 @@ Combined web-scraping, loading, and reporting tool for Littlefield simulation, b
 
 ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire. Used to learn fundamentals of data engineering.
 
-#### [Cyclistic_case_study](https://github.com/vbalalian/Cyclistic_case_study)
+#### [Cyclistic case study](https://github.com/vbalalian/Cyclistic_case_study)
 
 An R-based case study analyzing ride-sharing data using R's impressive suite of data processing and visualization tools to uncover insights and trends in bike-sharing service usage, in order to help the marketing team develop a new strategy to target casual riders for conversion to annual members. 
 
