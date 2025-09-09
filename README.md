@@ -4,7 +4,7 @@ These repositories are a collection of my data projects showcasing my skills in 
 
 ### Projects
 
-#### [Littlefield](https://responsive.net/littlefield.html) Simulation analytics [pipeline](https://github.com/vbalalian/littlefield)
+#### [Littlefield](https://responsive.net/littlefield.html) simulation [analytics pipeline](https://github.com/vbalalian/littlefield)
 
 Combined web-scraping, loading, and reporting tool for Littlefield simulation, built for use with Google Cloud Run functions and Google Cloud Scheduler.
 
