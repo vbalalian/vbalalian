@@ -14,7 +14,7 @@ Combined web-scraping, loading, and reporting tool for Littlefield simulation, b
 
 #### [Roman Coins data pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)
 
-ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire. Built on open-source.
+ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire. Built with open-source tools.
 
 
 ## Connect with Me
