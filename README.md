@@ -1,23 +1,29 @@
-## Overview
+# Vincent Balalian — Data Analytics & Engineering Projects
 
-These repositories are a collection of my data projects showcasing my skills in data analytics and engineering.
+I’m a Business Analytics major with a focus on designing data pipelines, dashboards, and predictive models. My GitHub shows what I build, from ingestion to insight.
 
-### Projects
+---
 
-#### [Half Baked Prompts](https://github.com/vbalalian/halfbakedprompts)
+## Projects
 
-Automated social media content pipeline with scheduling, posting, and metrics tracking, built on GCP.
+| Name | What & Why | Tech Highlights |
+|---|---|---|
+| **[Half Baked Prompts](https://github.com/vbalalian/halfbakedprompts)** | Automated pipeline that posts daily writing prompts to Bluesky, tracks engagement, and generates leaderboards. Proves ability to work with social media APIs, scheduling, and performance monitoring. | Python · SQL · GCP BigQuery, Cloud Run, & Scheduler |
+| **[Littlefield Simulation Analytics Pipeline](https://github.com/vbalalian/littlefield)** | Tool for scraping, analyzing, and reporting real-time metrics in Littlefield simulation. Helps understand throughput, utilization, and decision latency. | Python · SQL · GCP BigQuery, Cloud Run, & Scheduler · Discord alerts |
+| **[Roman Coins Data Pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)** | End-to-end data engineering pipeline for collecting, transforming, and serving historical coin data. Demonstrates robustness, open-source tooling, and CI/CD. | Python · PostgreSQL · FastAPI · dbt · Dagster · Docker |
 
-#### [Littlefield simulation analytics pipeline](https://github.com/vbalalian/littlefield)
+---
 
-Combined web-scraping, loading, and reporting tool for Littlefield simulation, built on GCP.
+## What I Bring
 
-#### [Roman Coins data pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)
+- Translating business questions into data workflows  
+- Building reliable data pipelines & automations  
+- Making dashboards & alerts that drive action  
+- Experimenting & iterating using metrics & feedback loops
 
-ELT pipeline that extracts, loads, and transforms data on coins minted by the ancient Roman Empire. Built with open-source tools.
+---
 
+## Connect
 
-## Connect with Me
-
-* LinkedIn: [Vincent Balalian](https://www.linkedin.com/in/vincent-balalian/)
-* Email: vbalalian@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vincent-balalian/)  
+- Email: vbalalian@gmail.com  
