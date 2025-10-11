@@ -14,15 +14,6 @@ I’m a Business Analytics major with a focus on designing data pipelines, dashb
 
 ---
 
-## What I Bring
-
-- Translating business questions into data workflows  
-- Building reliable data pipelines & automations  
-- Making dashboards & alerts that drive action  
-- Experimenting & iterating using metrics & feedback loops
-
----
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vincent-balalian/)  
