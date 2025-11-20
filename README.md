@@ -17,4 +17,3 @@ I’m a Business Analytics major with a focus on designing data pipelines, dashb
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vincent-balalian/)  
-- Email: vbalalian@gmail.com  
