@@ -1,20 +1,25 @@
-# Vincent Balalian — Data Analytics & Engineering Projects
+# Vincent Balalian
 
-I’m a Business Analytics major with a focus on designing data pipelines, dashboards, and predictive models.
+Analytics Engineer (graduating May 2026, CSUN). dbt certified. Building with dbt Core, BigQuery, Dagster, Terraform, and Omni.
 
 ---
 
-## Projects
+## Featured Project
 
-| Name | What & Why | Tech Highlights |
+**[E-Store Marketing Analytics](https://github.com/vbalalian/estore-analytics)** — Production-style analytics pipeline processing 400M+ ecommerce events. Dimensional modeling, RFM segmentation, session analysis, conversion metrics. Full CI/CD with GitHub Actions, infrastructure codified in Terraform, data quality testing in dbt.
+
+`dbt` · `BigQuery` · `Dagster` · `Terraform` · `GitHub Actions` · `Omni`
+
+---
+
+## Other Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| **[E-Store Marketing Analytics](https://github.com/vbalalian/estore-analytics)** | Event-driven batch analytics pipeline for 400M+ ecommerce events to calculate customer churn, conversion metrics, and perform RFM analysis. | dbt · Dagster · GCP · Terraform |
-| **[Predicting Restaurant Success with Yelp data](https://github.com/vbalalian/three-gits)** | Investigates whether sentiment analysis of early restaurant reviews improves prediction of long-term Yelp ratings. | dbt · BigQuery · Python (pandas, scikit-learn, XGBoost, VADER) |
-| **[Littlefield Factory Sim Analytics Pipeline](https://github.com/vbalalian/littlefield)** | Tool for scraping, analyzing, and reporting real-time metrics in Littlefield simulation. Helps understand throughput, utilization, and decision latency. | Python · SQL · GCP |
-| **[Roman Coins Open Source Data Pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)** | End-to-end data engineering pipeline for collecting, transforming, and serving historical coin data. Demonstrates robustness, open-source tooling, and CI/CD. | Python · PostgreSQL · FastAPI · dbt · Dagster · Docker |
+| **[Yelp Restaurant Success Prediction](https://github.com/vbalalian/three-gits)** | Can sentiment analysis of early reviews predict long-term ratings? | dbt · BigQuery · Python · scikit-learn · XGBoost |
+| **[Littlefield Sim Analytics](https://github.com/vbalalian/littlefield)** | Real-time scraping and reporting for factory simulation metrics. | Python · SQL · GCP |
+| **[Roman Coins Data Pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)** | End-to-end pipeline for historical coin data with API serving layer. | Python · PostgreSQL · FastAPI · dbt · Dagster · Docker |
 
 ---
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/vincent-balalian/)  
+[LinkedIn](https://www.linkedin.com/in/vincent-balalian/)
