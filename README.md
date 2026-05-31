@@ -1,20 +1,15 @@
 # Vincent Balalian
 
-Analytics Engineer (graduating May 2026, CSUN). dbt certified. Building with dbt Core, BigQuery, Dagster, Terraform, and Omni.
+**Space monkey, hype machine.** · Developer Advocate at Omni Analytics
 
----
+Living my dream and spreading the word about modern business analytics at Omni.
+Analytics engineer by background. I was using Omni before they hired me. Now I
+build with it, poke at the AI side of analytics, and write about what I learn.
 
-## Featured Project
+### A few things I've built
 
-**[E-Store Marketing Analytics](https://github.com/vbalalian/estore-analytics)** — Production-style analytics pipeline processing 400M+ ecommerce events. Dimensional modeling, RFM segmentation, session analysis, conversion metrics. Semantic layer built in Omni with bi-directional dbt integration. Full CI/CD with GitHub Actions, infrastructure codified in Terraform, data quality testing in dbt.
+- **[E-Store Analytics](https://github.com/vbalalian/estore-analytics)**: 400M+ e-commerce events through dbt, BigQuery, Dagster, and Omni. RFM segmentation, conversion funnels, churn analysis, infrastructure as code.
+- **[Roman Coins Pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)**: end-to-end ELT for historical coin data with a custom Airbyte connector and a FastAPI serving layer.
+- **[Half Baked Prompts](https://github.com/vbalalian/halfbakedprompts)**: backend for a daily writing-prompt community on Bluesky.
 
-`dbt` · `BigQuery` · `Dagster` · `Terraform` · `GitHub Actions` · `Omni`
-
----
-
-## Other Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Yelp Restaurant Success Prediction](https://github.com/vbalalian/three-gits)** | Can sentiment analysis of early reviews predict long-term ratings? | dbt · BigQuery · Python · scikit-learn · XGBoost |
-| **[Roman Coins Data Pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)** | End-to-end pipeline for historical coin data with API serving layer. | Python · PostgreSQL · FastAPI · dbt · Dagster · Docker |
+[GitHub](https://github.com/vbalalian) · [LinkedIn](https://linkedin.com/in/vbalalian)
