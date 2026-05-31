@@ -3,8 +3,6 @@
 **Space monkey, hype machine.** · Developer Advocate at Omni Analytics
 
 Living my dream and spreading the word about modern business analytics at Omni.
-Analytics engineer by background. I was using Omni before they hired me. Now I
-build with it, poke at the AI side of analytics, and write about what I learn.
 
 ### A few things I've built
 
