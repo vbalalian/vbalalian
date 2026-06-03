@@ -8,4 +8,4 @@ Developer Advocate at Omni Analytics
 - **[Roman Coins Pipeline](https://github.com/vbalalian/roman_coins_data_pipeline)**: end-to-end ELT for historical coin data with a custom Airbyte connector and a FastAPI serving layer.
 - **[Half Baked Prompts](https://github.com/vbalalian/halfbakedprompts)**: backend for a daily writing-prompt community on Bluesky.
 
-[GitHub](https://github.com/vbalalian) · [LinkedIn](https://linkedin.com/in/vbalalian)
+[LinkedIn](https://linkedin.com/in/vbalalian)
