@@ -1,8 +1,6 @@
 # Vincent Balalian
 
-**Space monkey, hype machine.** · Developer Advocate at Omni Analytics
-
-Living my dream and spreading the word about modern business analytics at Omni.
+Developer Advocate at Omni Analytics
 
 ### A few things I've built
 
